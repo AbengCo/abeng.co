@@ -1,0 +1,19 @@
+# AbengCo Inc.
+
+> Toronto-based product consultancy led by Tania Hew, a Senior Technical Product Manager with 15+ years in tech. Works fully remotely with consumer app (B2C) and fintech (B2C and B2B) companies in Canada, the US and elsewhere.
+
+## Services
+- [Product audit](https://abeng.co/services/product-audit/): fixed-scope review of a product, roadmap, data and funnel, ending in a prioritized plan. From US$3,500, about 2 weeks.
+- [Fractional product manager](https://abeng.co/services/fractional-product-manager/): part-time senior product leadership to cover a gap, run a launch or set up product process.
+- [AI and automation sprint](https://abeng.co/services/ai-automation-sprint/): removes repeat operations work with automation and practical AI tools.
+- [Launch and growth](https://abeng.co/services/launch-and-growth/): go-to-market plans, press outreach, influencer campaigns and conversion analytics.
+
+## Articles
+- [When to hire a fractional product manager (and when not to)](https://abeng.co/insights/when-to-hire-a-fractional-product-manager/)
+
+## Good fit
+Consumer apps and fintech teams with a live product or an upcoming launch, and a budget from about US$3,500. Not a fit: unfunded ideas, equity-only work, app development on its own.
+
+## Contact
+Email info@abeng.co. Free 20-minute intro call. Website: https://abeng.co/
+Founder profile: https://taniahew.com/
